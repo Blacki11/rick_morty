@@ -1,0 +1,13 @@
+.posicion {
+  color: blue;
+  position: sticky;
+  float: left;
+}
+
+.posicion2 {
+  color: red;
+  position: relative;
+  left: 40px;
+  top: 50px;
+  float: top;
+}
