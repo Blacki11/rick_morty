@@ -1,5 +1,0 @@
-USAR LA CONSOLA DE LA PAGINA PARA VER ERRORES
-
-````
-
-usar un hover al pasar por un pj de rick and morty lo agranda y le da info? o algo asi
